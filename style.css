@@ -1,0 +1,102 @@
+
+
+header nav{
+    background-color: black;
+
+}
+header nav img{
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+ul{
+    position: relative;
+    height: 48px;
+    text-align: center;
+    top: -29px;
+}
+
+header nav ul li{
+    text-align: center;
+    color:white;
+    left: 655px;
+    display: inline-block;
+    margin-left: 60px;
+    
+
+    
+
+}
+main container div{
+    text-align: center;
+}
+main div{
+    text-align: center;
+}
+main div img{
+    margin: 13px;
+}
+.div2 img{
+    text-align: left;
+    float: left;
+    left: 180px;
+
+}
+.div2 p{
+    position: relative;
+    top: 15px;
+}
+
+.div2{
+    width: 983px;
+    position: relative;
+    left: 178px;
+}
+input{
+    position: relative;
+    top: 46px;
+    right: 247px;
+    width: 160px;
+    background-color: black;
+    color: white; 
+}
+
+footer{
+    background-color: black;
+    position: relative;
+    top: 60px;
+    height: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
